@@ -1,4 +1,2 @@
-example-repository
+Example Repository
 ==================
-
-This is my test respository
